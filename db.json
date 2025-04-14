@@ -122,3 +122,249 @@
   ]
   
 }
+"userId": 1011,
+      "username": "dao.hoai",
+      "password": "Dao@2025Hoai",
+      "status": "inactive",
+      "lastLogin": "2025-04-13T13:00:00Z",
+      "createdAt": "2025-04-12T16:00:00Z"
+    },
+    {
+      "id": 10,
+      "userId": 1012,
+      "username": "nguyen.minh",
+      "password": "Nguyen@Minh123",
+      "status": "active",
+      "lastLogin": "2025-04-14T09:30:00Z",
+      "createdAt": "2025-04-14T08:00:00Z"
+    }
+  ]
+}
+{
+  "notes": [
+    {
+      "id": 1,
+      "title": "Ghi chú cá nhân",
+      "content": "Nhớ kiểm tra lại tài liệu vào thứ Hai.",
+      "priority": 1,
+      "createdAt": "2025-04-10T10:30:00Z",
+      "modifiedAt": "2025-04-10T10:30:00Z",
+      "tags": "công việc, quản lý",
+      "color": "#0000FF",
+      "imagePath": ""
+    },
+    {
+      "id": 2,
+      "title": "Danh sách cần mua",
+      "content": "Mua rau, thịt, và trứng.",
+      "priority": 3,
+      "createdAt": "2025-04-10T11:15:00Z",
+      "modifiedAt": "2025-04-10T11:15:00Z",
+      "tags": "mua sắm",
+      "color": "#FFFF00",
+      "imagePath": ""
+    },
+    {
+      "id": 3,
+      "title": "Cuộc họp nhóm",
+      "content": "Chuẩn bị bài thuyết trình cho cuộc họp nhóm vào thứ Ba.",
+      "priority": 2,
+      "createdAt": "2025-04-11T09:30:00Z",
+      "modifiedAt": "2025-04-11T09:30:00Z",
+      "tags": "cuộc họp, công việc",
+      "color": "#00FF00",
+      "imagePath": ""
+    },
+    {
+      "id": 4,
+      "title": "Chuyến đi du lịch",
+      "content": "Đặt vé máy bay và khách sạn cho chuyến đi du lịch vào tháng sau.",
+      "priority": 1,
+      "createdAt": "2025-04-11T10:00:00Z",
+      "modifiedAt": "2025-04-11T10:00:00Z",
+      "tags": "du lịch",
+      "color": "#FF6347",
+      "imagePath": ""
+    },
+    {
+      "id": 5,
+      "title": "Học bài môn Toán",
+      "content": "Ôn tập bài học về đạo hàm và tích phân.",
+      "priority": 3,
+      "createdAt": "2025-04-12T08:15:00Z",
+      "modifiedAt": "2025-04-12T08:15:00Z",
+      "tags": "học tập, Toán",
+      "color": "#FFD700",
+      "imagePath": ""
+    },
+    {
+      "id": 6,
+      "title": "Lịch thi cuối kỳ",
+      "content": "Xem lại lịch thi cuối kỳ và chuẩn bị cho các môn thi.",
+      "priority": 2,
+      "createdAt": "2025-04-12T11:45:00Z",
+      "modifiedAt": "2025-04-12T11:45:00Z",
+      "tags": "học tập, thi",
+      "color": "#FF4500",
+      "imagePath": ""
+    },
+    {
+      "id": 7,
+      "title": "Bảo trì hệ thống",
+      "content": "Kiểm tra và bảo trì hệ thống máy tính trong công ty.",
+      "priority": 1,
+      "createdAt": "2025-04-13T14:00:00Z",
+      "modifiedAt": "2025-04-13T14:00:00Z",
+      "tags": "công việc, bảo trì",
+      "color": "#8A2BE2",
+      "imagePath": ""
+    },
+    {
+      "id": 8,
+      "title": "Mua quà sinh nhật",
+      "content": "Mua quà sinh nhật cho người thân vào cuối tuần.",
+      "priority": 3,
+      "createdAt": "2025-04-13T16:30:00Z",
+      "modifiedAt": "2025-04-13T16:30:00Z",
+      "tags": "mua sắm, sinh nhật",
+      "color": "#A52A2A",
+      "imagePath": ""
+    },
+    {
+      "id": 9,
+      "title": "Lịch hẹn bác sĩ",
+      "content": "Đi khám sức khỏe định kỳ vào thứ Sáu.",
+      "priority": 2,
+      "createdAt": "2025-04-14T09:00:00Z",
+      "modifiedAt": "2025-04-14T09:00:00Z",
+      "tags": "sức khỏe",
+      "color": "#00CED1",
+      "imagePath": ""
+    },
+    {
+      "id": 10,
+      "title": "Dọn dẹp nhà cửa",
+      "content": "Dọn dẹp và sắp xếp lại đồ đạc trong nhà.",
+      "priority": 1,
+      "createdAt": "2025-04-14T10:30:00Z",
+      "modifiedAt": "2025-04-14T10:30:00Z",
+      "tags": "dọn dẹp",
+      "color": "#32CD32",
+      "imagePath": ""
+    },
+    {
+      "id": 11,
+      "title": "Cập nhật phần mềm",
+      "content": "Cập nhật các phần mềm trên máy tính để đảm bảo an ninh.",
+      "priority": 3,
+      "createdAt": "2025-04-14T12:00:00Z",
+      "modifiedAt": "2025-04-14T12:00:00Z",
+      "tags": "công việc, phần mềm",
+      "color": "#800080",
+      "imagePath": ""
+    },
+    {
+      "id": 12,
+      "title": "Kiểm tra email công ty",
+      "content": "Kiểm tra và trả lời các email công việc quan trọng.",
+      "priority": 2,
+      "createdAt": "2025-04-14T14:45:00Z",
+      "modifiedAt": "2025-04-14T14:45:00Z",
+      "tags": "công việc, email",
+      "color": "#FF1493",
+      "imagePath": ""
+    }
+  ],
+  "accounts": [
+    {
+      "id": 1,
+      "userId": 1003,
+      "username": "account1",
+      "password": "securePassword1",
+      "status": "active",
+      "lastLogin": "2025-04-10T09:00:00Z",
+      "createdAt": "2025-04-03T10:00:00Z"
+    },
+    {
+      "id": 2,
+      "userId": 1004,
+      "username": "account2",
+      "password": "securePassword2",
+      "status": "inactive",
+      "lastLogin": "2025-04-09T14:00:00Z",
+      "createdAt": "2025-04-04T12:45:00Z"
+    },
+    {
+      "id": 3,
+      "userId": 1005,
+      "username": "nguyen.tran",
+      "password": "Nguyen@12345",
+      "status": "active",
+      "lastLogin": "2025-04-12T08:30:00Z",
+      "createdAt": "2025-04-10T09:30:00Z"
+    },
+    {
+      "id": 4,
+      "userId": 1006,
+      "username": "le.thi",
+      "password": "Le@4567Thi",
+      "status": "inactive",
+      "lastLogin": "2025-04-11T11:30:00Z",
+      "createdAt": "2025-04-11T10:00:00Z"
+    },
+    {
+      "id": 5,
+      "userId": 1007,
+      "username": "pham.van",
+      "password": "Pham@7890Van",
+      "status": "active",
+      "lastLogin": "2025-04-12T10:15:00Z",
+      "createdAt": "2025-04-10T12:00:00Z"
+    },
+    {
+      "id": 6,
+      "userId": 1008,
+      "username": "ngo.trang",
+      "password": "Ngo@9876Trang",
+      "status": "inactive",
+      "lastLogin": "2025-04-12T13:00:00Z",
+      "createdAt": "2025-04-11T14:00:00Z"
+    },
+    {
+      "id": 7,
+      "userId": 1009,
+      "username": "hoang.duy",
+      "password": "Hoang@123Duy",
+      "status": "active",
+      "lastLogin": "2025-04-13T09:45:00Z",
+      "createdAt": "2025-04-10T14:30:00Z"
+    },
+    {
+      "id": 8,
+      "userId": 1010,
+      "username": "tran.nhan",
+      "password": "Tran!123Nhan",
+      "status": "active",
+      "lastLogin": "2025-04-13T11:00:00Z",
+      "createdAt": "2025-04-10T15:30:00Z"
+    },
+    {
+      "id": 9,
+      "userId": 1011,
+      "username": "dao.hoai",
+      "password": "Dao@2025Hoai",
+      "status": "inactive",
+      "lastLogin": "2025-04-13T13:00:00Z",
+      "createdAt": "2025-04-12T16:00:00Z"
+    },
+    {
+      "id": 10,
+      "userId": 1012,
+      "username": "nguyen.minh",
+      "password": "Nguyen@Minh123",
+      "status": "active",
+      "lastLogin": "2025-04-14T09:30:00Z",
+      "createdAt": "2025-04-14T08:00:00Z"
+    }
+  ]
+}
