@@ -141,38 +141,49 @@
   ]
 }
 {
+{
   "notes": [
     {
       "id": 1,
-      "title": "Ghi chú cá nhân",
-      "content": "Nhớ kiểm tra lại tài liệu vào thứ Hai.",
+      "title": "Ghi chú 1",
+      "content": "Đây là nội dung 1.",
       "priority": 1,
-      "createdAt": "2025-04-10T10:30:00Z",
-      "modifiedAt": "2025-04-10T10:30:00Z",
-      "tags": "công việc, quản lý",
-      "color": "#0000FF",
-      "imagePath": ""
+      "createdAt": "2025-04-09T10:00:00Z",
+      "modifiedAt": "2025-04-09T10:00:00Z",
+      "tags": "công việc",
+      "color": "#FF0000",
+      "imagePath": null
     },
     {
       "id": 2,
-      "title": "Danh sách cần mua",
-      "content": "Mua rau, thịt, và trứng.",
-      "priority": 3,
-      "createdAt": "2025-04-10T11:15:00Z",
-      "modifiedAt": "2025-04-10T11:15:00Z",
-      "tags": "mua sắm",
-      "color": "#FFFF00",
-      "imagePath": ""
+      "title": "Danh sách mua sắm",
+      "content": "Mua sữa, bánh mì, và trái cây.",
+      "priority": 2,
+      "createdAt": "2025-04-09T11:00:00Z",
+      "modifiedAt": "2025-04-09T11:00:00Z",
+      "tags": null,
+      "color": "#00FF00",
+      "imagePath": null
+    }
+  ],
+  "accounts": [
+    {
+      "id": 1,
+      "userId": 1001,
+      "username": "user1",
+      "password": "password123",
+      "status": "active",
+      "lastLogin": "2025-04-09T10:00:00Z",
+      "createdAt": "2025-04-01T10:00:00Z"
     },
     {
-      "id": 3,
-      "title": "Cuộc họp nhóm",
-      "content": "Chuẩn bị bài thuyết trình cho cuộc họp nhóm vào thứ Ba.",
-      "priority": 2,
-      "createdAt": "2025-04-11T09:30:00Z",
-      "modifiedAt": "2025-04-11T09:30:00Z",
-      "tags": "cuộc họp, công việc",
-      "color": "#00FF00",
-      "imagePath": ""
-    },
+      "id": 2,
+      "userId": 1002,
+      "username": "user2",
+      "password": "password456",
+      "status": "inactive",
+      "lastLogin": "2025-04-08T15:30:00Z",
+      "createdAt": "2025-04-02T12:00:00Z"
+    }
   ]
+}
