@@ -1,89 +1,39 @@
 {
   "users": [
-              {
-                "id": 1,
-                "name": "Nguyễn Văn An",
-                "email": "nguyenvanan@gmail.com",
-                "phone": "0912345678",
-                "avatar": "https://example.com/avatars/an.jpg",
-                "dateOfBirth": "1990-05-15T00:00:00.000Z"
-              },
-              {
-                "id": 2,
-                "name": "Trần Thị Bình",
-                "email": "tranthibinh@gmail.com",
-                "phone": "0923456789",
-                "avatar": null,
-                "dateOfBirth": "1985-11-20T00:00:00.000Z"
-              },
-              {
-                "id": 3,
-                "name": "Lê Văn Cường",
-                "email": "levancuong@gmail.com",
-                "phone": "0934567890",
-                "avatar": "https://example.com/avatars/cuong.jpg",
-                "dateOfBirth": "1995-02-28T00:00:00.000Z"
-              },
-              {
-                "id": 4,
-                "name": "Phạm Thị Diệu",
-                "email": "phamthidieu@gmail.com",
-                "phone": "0945678901",
-                "avatar": "https://example.com/avatars/dieu.jpg",
-                "dateOfBirth": "1992-08-10T00:00:00.000Z"
-              },
-              {
-                "id": 5,
-                "name": "Hoàng Văn Em",
-                "email": "hoangvanem@gmail.com",
-                "phone": "0956789012",
-                "avatar": null,
-                "dateOfBirth": "1988-12-05T00:00:00.000Z"
-              },
-              {
-                "id": 6,
-                "name": "Ngô Thị Phương",
-                "email": "ngothiphuong@gmail.com",
-                "phone": "0967890123",
-                "avatar": "https://example.com/avatars/phuong.jpg",
-                "dateOfBirth": "1998-04-17T00:00:00.000Z"
-              },
-              {
-                "id": 7,
-                "name": "Đặng Văn Giang",
-                "email": "dangvangiang@gmail.com",
-                "phone": "0978901234",
-                "avatar": "https://example.com/avatars/giang.jpg",
-                "dateOfBirth": "1993-09-23T00:00:00.000Z"
-              },
-              {
-                "id": 8,
-                "name": "Vũ Thị Hương",
-                "email": "vuthihuong@gmail.com",
-                "phone": "0989012345",
-                "avatar": null,
-                "dateOfBirth": "1996-06-12T00:00:00.000Z"
-              },
-              {
-                "id": 9,
-                "name": "Bùi Văn Ích",
-                "email": "buivanich@gmail.com",
-                "phone": "0990123456",
-                "avatar": "https://example.com/avatars/ich.jpg",
-                "dateOfBirth": "1991-01-30T00:00:00.000Z"
-              },
-              {
-                "id": 10,
-                "name": "Lý Thị Kim",
-                "email": "lythikim@gmail.com",
-                "phone": "0901234567",
-                "avatar": "https://example.com/avatars/kim.jpg",
-                "dateOfBirth": "1987-07-25T00:00:00.000Z"
-              }
- ],
-  {
-  
-"accounts": [
+    {
+      "id": 1,
+      "name": "Nguyễn Văn An",
+      "email": "nguyenvanan@gmail.com",
+      "phone": "0912345678",
+      "avatar": "https://example.com/avatars/an.jpg",
+      "dateOfBirth": "1990-05-15T00:00:00.000Z"
+    },
+    {
+      "id": 2,
+      "name": "Trần Thị Bình",
+      "email": "tranthibinh@gmail.com",
+      "phone": "0923456789",
+      "avatar": null,
+      "dateOfBirth": "1985-11-20T00:00:00.000Z"
+    },
+    {
+      "id": 3,
+      "name": "Lê Văn Cường",
+      "email": "levancuong@gmail.com",
+      "phone": "0934567890",
+      "avatar": "https://example.com/avatars/cuong.jpg",
+      "dateOfBirth": "1995-02-28T00:00:00.000Z"
+    },
+    {
+      "id": 4,
+      "name": "Phạm Thị Diệu",
+      "email": "phamthidieu@gmail.com",
+      "phone": "0945678901",
+      "avatar": "https://example.com/avatars/dieu.jpg",
+      "dateOfBirth": "1992-08-10T00:00:00.000Z"
+    }
+  ],
+  "accounts": [
     {
       "id": 1,
       "userId": 1,
@@ -101,134 +51,23 @@
       "status": "active",
       "lastLogin": "2025-04-06T14:22:10.000Z",
       "createdAt": "2023-06-15T00:00:00.000Z"
-    },
-    {
-      "id": 3,
-      "userId": 3,
-      "username": "levancuong",
-      "password": "Cuong@123456",
-      "status": "active",
-      "lastLogin": "2025-04-07T19:45:18.000Z",
-      "createdAt": "2023-07-22T00:00:00.000Z"
-    },
-    {
-      "id": 4,
-      "userId": 4,
-      "username": "phamthidieu",
-      "password": "Dieu@123456",
-      "status": "unactive",
-      "lastLogin": "2025-04-05T10:30:42.000Z",
-      "createdAt": "2023-08-10T00:00:00.000Z"
     }
   ],
-}
-  {
-"userId":[{1011,
-      "username": "dao.hoai",
-      "password": "Dao@2025Hoai",
-      "status": "inactive",
-      "lastLogin": "2025-04-13T13:00:00Z",
-      "createdAt": "2025-04-12T16:00:00Z"
-    },
+  "task": [
     {
-      "id": 10,
-      "userId": 1012,
-      "username": "nguyen.minh",
-      "password": "Nguyen@Minh123",
-      "status": "active",
-      "lastLogin": "2025-04-14T09:30:00Z",
-      "createdAt": "2025-04-14T08:00:00Z"
-    }
-  ],
-  "notes": [
-    {
-      "id": 1,
-      "title": "Ghi chú 1",
-      "content": "Đây là nội dung 1.",
+      "id": "1",
+      "title": "Finish Project",
+      "description": "Complete the task management project",
+      "status": "In Progress",
       "priority": 1,
-      "createdAt": "2025-04-09T10:00:00Z",
-      "modifiedAt": "2025-04-09T10:00:00Z",
-      "tags": "công việc",
-      "color": "#FF0000",
-      "imagePath": null
-    },
-    {
-      "id": 2,
-      "title": "Danh sách mua sắm",
-      "content": "Mua sữa, bánh mì, và trái cây.",
-      "priority": 2,
-      "createdAt": "2025-04-09T11:00:00Z",
-      "modifiedAt": "2025-04-09T11:00:00Z",
-      "tags": null,
-      "color": "#00FF00",
-      "imagePath": null
+      "dueDate": "2025-04-20T00:00:00.000Z",
+      "createdAt": "2025-04-10T10:00:00.000Z",
+      "updatedAt": "2025-04-12T12:00:00.000Z",
+      "assignedTo": "user1",
+      "createdBy": "user2",
+      "category": "Development",
+      "attachments": ["file1.pdf", "file2.jpg"],
+      "completed": false
     }
-  ],
-  "accounts": [
-    {
-      "id": 1,
-      "userId": 1001,
-      "username": "user1",
-      "password": "password123",
-      "status": "active",
-      "lastLogin": "2025-04-09T10:00:00Z",
-      "createdAt": "2025-04-01T10:00:00Z"
-    },
-    {
-      "id": 2,
-      "userId": 1002,
-      "username": "user2",
-      "password": "password456",
-      "status": "inactive",
-      "lastLogin": "2025-04-08T15:30:00Z",
-      "createdAt": "2025-04-02T12:00:00Z"
-    }
-  ],
-"task":[
-  {
-    "id": "1",
-    "title": "Finish Project",
-    "description": "Complete the task management project",
-    "status": "In Progress",
-    "priority": 1,
-    "dueDate": "2025-04-20T00:00:00.000Z",
-    "createdAt": "2025-04-10T10:00:00.000Z",
-    "updatedAt": "2025-04-12T12:00:00.000Z",
-    "assignedTo": "user1",
-    "createdBy": "user2",
-    "category": "Development",
-    "attachments": ["file1.pdf", "file2.jpg"],
-    "completed": false
-  },
-  {
-    "id": "2",
-    "title": "Update Website",
-    "description": "Update the content on the homepage",
-    "status": "Completed",
-    "priority": 2,
-    "dueDate": "2025-04-15T00:00:00.000Z",
-    "createdAt": "2025-04-05T09:30:00.000Z",
-    "updatedAt": "2025-04-10T11:00:00.000Z",
-    "assignedTo": "user3",
-    "createdBy": "user1",
-    "category": "Design",
-    "attachments": ["homepage_design.png"],
-    "completed": true
-  },
-  {
-    "id": "3",
-    "title": "Review Code",
-    "description": "Review the pull request for new feature",
-    "status": "Pending",
-    "priority": 3,
-    "dueDate": "2025-04-18T00:00:00.000Z",
-    "createdAt": "2025-04-10T15:00:00.000Z",
-    "updatedAt": "2025-04-12T14:00:00.000Z",
-    "assignedTo": "user2",
-    "createdBy": "user4",
-    "category": "Code Review",
-    "attachments": ["pr_diff.txt"],
-    "completed": false
-  }
-]
-
+  ]
+}
