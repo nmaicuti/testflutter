@@ -119,9 +119,8 @@
       "lastLogin": "2025-04-05T10:30:42.000Z",
       "createdAt": "2023-08-10T00:00:00.000Z"
     }
-  ]
+  ],
   
-}
 "userId": 1011,
       "username": "dao.hoai",
       "password": "Dao@2025Hoai",
@@ -138,10 +137,7 @@
       "lastLogin": "2025-04-14T09:30:00Z",
       "createdAt": "2025-04-14T08:00:00Z"
     }
-  ]
-}
-{
-{
+  ],
   "notes": [
     {
       "id": 1,
@@ -185,5 +181,52 @@
       "lastLogin": "2025-04-08T15:30:00Z",
       "createdAt": "2025-04-02T12:00:00Z"
     }
-  ]
-}
+  ],
+[
+  {
+    "id": "1",
+    "title": "Finish Project",
+    "description": "Complete the task management project",
+    "status": "In Progress",
+    "priority": 1,
+    "dueDate": "2025-04-20T00:00:00.000Z",
+    "createdAt": "2025-04-10T10:00:00.000Z",
+    "updatedAt": "2025-04-12T12:00:00.000Z",
+    "assignedTo": "user1",
+    "createdBy": "user2",
+    "category": "Development",
+    "attachments": ["file1.pdf", "file2.jpg"],
+    "completed": false
+  },
+  {
+    "id": "2",
+    "title": "Update Website",
+    "description": "Update the content on the homepage",
+    "status": "Completed",
+    "priority": 2,
+    "dueDate": "2025-04-15T00:00:00.000Z",
+    "createdAt": "2025-04-05T09:30:00.000Z",
+    "updatedAt": "2025-04-10T11:00:00.000Z",
+    "assignedTo": "user3",
+    "createdBy": "user1",
+    "category": "Design",
+    "attachments": ["homepage_design.png"],
+    "completed": true
+  },
+  {
+    "id": "3",
+    "title": "Review Code",
+    "description": "Review the pull request for new feature",
+    "status": "Pending",
+    "priority": 3,
+    "dueDate": "2025-04-18T00:00:00.000Z",
+    "createdAt": "2025-04-10T15:00:00.000Z",
+    "updatedAt": "2025-04-12T14:00:00.000Z",
+    "assignedTo": "user2",
+    "createdBy": "user4",
+    "category": "Code Review",
+    "attachments": ["pr_diff.txt"],
+    "completed": false
+  }
+]
+
